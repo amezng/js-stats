@@ -1,0 +1,14 @@
+{
+  "name": "js-stats",
+  "version": "0.0.1",
+  "description": "Stats library for JS",
+  "scripts": {
+    "start": "node ./app.js",
+    "test": "jasmine-node spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^3.13.1",
+    "jasmine-node": "^1.14.5"
+  }
+}
